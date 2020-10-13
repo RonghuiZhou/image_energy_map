@@ -1,10 +1,10 @@
 # image_energy_map
 visualize the energy map
 
-source:
+Original image (./src/dolphin.png):
 ![original image](./src/dolphin.png)   
 
 
 
-Output:
+Energy map (./dst/dolphin_energy_map.png):
 ![original image](./dst/dolphin_energy_map.png)   
