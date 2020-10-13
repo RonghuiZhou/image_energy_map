@@ -1,6 +1,9 @@
 # image_energy_map
 visualize the energy map
 
+https://en.wikipedia.org/wiki/Sobel_operator  
+
+
 Original image (./source/valve.png):    
 ![original image](./source/valve.png)   
 
