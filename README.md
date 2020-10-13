@@ -2,6 +2,9 @@
 visualize the energy map
 
 source:
+![original image](./src/dolphin.png)   
 
-![original image](./src/dolphin.png)
+
+
 Output:
+![original image](./dst/dolphin_energy_map.png)   
